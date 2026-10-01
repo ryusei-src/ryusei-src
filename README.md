@@ -1,55 +1,30 @@
-<div align="center">
-
 # Ryusei
 
-### Building reliable AI systems, developer tools, and infrastructure.
+Building reliable AI systems, developer tooling, and infrastructure.
 
-**AI Systems · Verification · Developer Tooling · Open Source**
+I work on **[Rovyxel](https://github.com/Rovyxel)** and open-source software with a focus on reproducibility, verification, observability, and clear system boundaries.
 
-</div>
+## Current work
 
----
+- **[EffectRecon](https://github.com/Rovyxel/EffectRecon)** — deterministic effect reconciliation and verification
+- **[Rovyxel](https://github.com/Rovyxel)** — AI systems, developer infrastructure, and open-source projects
 
-## About
+## Technical focus
 
-I'm **Ryusei**. I build software through **[Rovyxel](https://github.com/Rovyxel)**, with a focus on reliable AI systems, verification, developer tooling, and infrastructure.
+- AI runtimes, agents, orchestration, and tool execution
+- Reliability, reproducibility, diagnostics, and independent verification
+- Developer tooling, CI, testing, and automation
+- Backend systems, APIs, PostgreSQL, Linux, and containers
+- Observability, runtime events, and operational infrastructure
 
-I care about deterministic behavior, observable systems, clear failure boundaries, and software that can be independently verified.
+## Open source
 
-## Current Work
+I am interested in upstream work where a change can be reproduced, tested, and verified clearly — especially in developer tooling, AI infrastructure, testing, and observability.
 
-- **[Rovyxel](https://github.com/Rovyxel)** — building AI-first systems, developer infrastructure, and open-source software
-- **[EffectRecon](https://github.com/Rovyxel/EffectRecon)** — open-source work around deterministic effect reconciliation and verification
-- Exploring upstream contributions across developer tooling, AI infrastructure, testing, and observability
+## Stack
 
-## Focus
-
-- **AI Systems** — agent architecture, orchestration, tool execution, and runtime design
-- **Reliability & Verification** — reproducibility, evidence, diagnostics, and failure boundaries
-- **Developer Tooling** — tools and workflows for building and operating software
-- **Backend & Infrastructure** — APIs, databases, Linux, containers, CI, and system automation
-- **Open Source** — building public software and contributing improvements upstream
-
-## Technology
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,python,react,fastapi,postgres,docker,linux,git,github,vscode&perline=10" alt="Technology stack" />
-</p>
-
-## GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ryusei-src&show_icons=true&hide_border=true&rank_icon=github" alt="Ryusei's GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei-src&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+TypeScript · Python · React · FastAPI · PostgreSQL · Docker · Linux · Git
 
 ---
-
-<div align="center">
 
 **Build. Verify. Improve.**
-
-</div>
