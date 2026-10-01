@@ -2,9 +2,9 @@
 
 # Ryusei
 
-### Building AI systems, developer tools, and reliable infrastructure.
+### Building reliable AI systems, developer tools, and infrastructure.
 
-**AI Agents · Reliability · Automation · Open Source · Infrastructure**
+**AI Systems · Verification · Developer Tooling · Open Source**
 
 </div>
 
@@ -12,18 +12,23 @@
 
 ## About
 
-I build and experiment with software around **Rovyxel**, with a focus on combining AI agents, reliable automation, developer tooling, and infrastructure into practical systems.
+I'm **Ryusei**. I build software through **[Rovyxel](https://github.com/Rovyxel)**, with a focus on reliable AI systems, verification, developer tooling, and infrastructure.
 
-My work is centered on designing systems that are not only capable, but also observable, verifiable, and maintainable.
+I care about deterministic behavior, observable systems, clear failure boundaries, and software that can be independently verified.
+
+## Current Work
+
+- **[Rovyxel](https://github.com/Rovyxel)** — building AI-first systems, developer infrastructure, and open-source software
+- **[EffectRecon](https://github.com/Rovyxel/EffectRecon)** — open-source work around deterministic effect reconciliation and verification
+- Exploring upstream contributions across developer tooling, AI infrastructure, testing, and observability
 
 ## Focus
 
-- **AI Agents** — agent architecture, orchestration, tool execution, and local models
-- **Reliability & Verification** — independent verification, evidence, diagnostics, and failure boundaries
-- **Developer Tools** — tooling that improves development and operational workflows
-- **Web & Backend Systems** — APIs, interfaces, databases, and service architecture
-- **Infrastructure** — Linux, containers, self-hosting, CI, and system automation
-- **Open Source** — independent tools and experiments designed for public use
+- **AI Systems** — agent architecture, orchestration, tool execution, and runtime design
+- **Reliability & Verification** — reproducibility, evidence, diagnostics, and failure boundaries
+- **Developer Tooling** — tools and workflows for building and operating software
+- **Backend & Infrastructure** — APIs, databases, Linux, containers, CI, and system automation
+- **Open Source** — building public software and contributing improvements upstream
 
 ## Technology
 
@@ -34,16 +39,12 @@ My work is centered on designing systems that are not only capable, but also obs
 ## GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rovyxel-Ryusei&show_icons=true&hide_border=true&rank_icon=github" alt="Ryusei's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryusei-src&show_icons=true&hide_border=true&rank_icon=github" alt="Ryusei's GitHub stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rovyxel-Ryusei&layout=compact&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei-src&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
-
-## Current Direction
-
-Building **Rovyxel** while developing independent open-source software and experimenting with reliable AI infrastructure.
 
 ---
 
